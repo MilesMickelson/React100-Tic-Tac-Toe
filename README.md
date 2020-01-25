@@ -1,21 +1,21 @@
-# tic-tac-toe
+# React100-Tic-Tac-Toe
 
-An interactive tic-tac-toe game.
+![](images/ProjectScreenshot.png)
 
-## Setup
+First project in the React100 course at San Diego Code School gives you a walkthrough of React 
+architecture and building a web app tic tac toe game complete with a display for player moves.
 
+## Please feel free to demo the project by taking these steps..
+```
+Clone or fork the repo
+```
 ```
 npm install
 ```
 ```
-npm run build
-```
-```
 npm start
 ```
-
-## Contributing
-
-* Please follow the AirBnB styleguide.
-
-* Open a pull request, all contributions will be considered.
+```
+Open your browser to view on localhost: 3000
+```
+* Thank you, Miles Mickelson
